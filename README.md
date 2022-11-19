@@ -1,8 +1,11 @@
 # A geometric Laplace expansion
 
-This repository contains a Jupyter notebook written in Cadabra and is companion to the paper
+This repository is companion to the paper
 
 > Léger, F. and Vialard, F.X. (2022). *A geometric Laplace expansion*.
+
+It contains a Jupyter notebook written in Cadabra that verifies the tensor computations done in the paper.
+
 
 [Cadabra](https://cadabra.science/index.html) is a symbolic algebra program which specializes in symbolic tensor computations.
 
